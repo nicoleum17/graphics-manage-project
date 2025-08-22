@@ -14,3 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Prefabs North and South Area (22/08/2025).
 - Duplicade north cubes (22/08/2025).
 - Add Changelog to proyect (22/08/2025).
+- Add PR File and rename Chancelog file (22/08/2025).
