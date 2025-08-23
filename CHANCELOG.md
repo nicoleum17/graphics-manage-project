@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Cilinders added in SouthArea (23/08/20225). 
+- Sphere added in NorthArea (23/08/20225).
 
 ### Changed
 
