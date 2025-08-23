@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - UNRELEASED
 
 ### Added
+- Cilinders added in SouthArea (23/08/20225). 
 
 ### Changed
 
